@@ -5,11 +5,11 @@
 
 - M = moveto
 - L = lineto
-- H = horizontal lineto
-- V = vertical lineto
-- C = curveto
-- S = smooth curveto
-- Q = quadratic Bezier curve
-- T = smooth quadratic Bezier curve
-- A = elliptical Arc
-- Z = closepath
+- H = horizontal lineto 横向
+- V = vertical lineto 竖向
+- C = curveto 曲线
+- S = smooth curveto 光滑曲线
+- Q = quadratic Bezier curve 二次贝塞尔曲线
+- T = smooth quadratic Bezier curve 
+- A = elliptical Arc 椭圆弧
+- Z = closepath 闭合
