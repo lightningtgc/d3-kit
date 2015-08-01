@@ -13,3 +13,11 @@
 - T = smooth quadratic Bezier curve 
 - A = elliptical Arc 椭圆弧
 - Z = closepath 闭合
+- 
+### <defs>
+
+用来声明一些特殊元素如<filter>的集合
+
+#### <filter>
+
+<filter> 用来定义一个SVG filter，需要用一个id属性来定义它。
